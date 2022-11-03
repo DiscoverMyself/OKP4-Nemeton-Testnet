@@ -12,6 +12,13 @@ Incentivized
 
 
 # Installation
+# Auto
+```
+source <(curl -s https://raw.githubusercontent.com/nodejumper-org/cosmos-scripts/master/okp4/okp4-nemeton/install.sh)
+```
+
+# Manual
+
 ### Update & Install screen
 ```
 sudo apt-get update && sudo apt install git && sudo apt install screen
