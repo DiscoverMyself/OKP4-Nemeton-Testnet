@@ -47,7 +47,13 @@ okp4d version
 ``` 
 outputnya: ``` v2.2.0 atau 2.2.0 ```
 
-</> 
+
+.
+.
+.
+.
+.
+
 
 ## Running a Node
 
