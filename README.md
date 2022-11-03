@@ -11,7 +11,7 @@ Incentivized
 > [OKP4](https://docs.okp4.network/)
 
 
-## Installation
+# Installation
 ### Update & Install screen
 ```
 sudo apt-get update && sudo apt install git && sudo apt install screen
@@ -55,7 +55,7 @@ outputnya: ``` v2.2.0 atau 2.2.0 ```
 .
 
 
-## Running a Node
+# Running a Node
 
 ### Chain ID 
 ```
